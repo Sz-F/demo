@@ -1,0 +1,33 @@
+body {
+  background: #ffffff;
+  text-align: center;
+  font-family: "sans-serif", "Arial";
+  line-height: 2;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #2f2f2f;
+}
+
+h2 {
+  font-size: 16px;
+  font-weight: 200;
+  color: #565e66;
+}
+
+.li_title {
+  color: #000000;
+  width: 100%;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.list {
+  font-size: 16px;
+  font-weight: 200;
+  color: #2f2f2f;
+  list-style: none;
+}
